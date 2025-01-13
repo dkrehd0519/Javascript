@@ -1,5 +1,5 @@
 .center-content {
-  height: 800px;
+  height: 600px;
   width: 1000px;
   font-family: "Satisfy", cursive;
   text-align: center;
@@ -16,7 +16,7 @@ h2 {
 }
 h1 {
   font-family: "Satisfy", cursive;
-  margin-top: 330px;
+  margin-top: 200px;
   font-size: 5em;
 }
 #quote {
